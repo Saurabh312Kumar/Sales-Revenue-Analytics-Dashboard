@@ -5,7 +5,7 @@
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to business insights visualization. The goal is to extract meaningful insights using Python, SQL, and Power BI, and present them in a clear, decision-friendly format.
 
-## 📁 Dataset
+## Dataset
 
 * The dataset contains structured business data including:
 
@@ -17,7 +17,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 * **Python** – Data cleaning, preprocessing, and EDA
 * **Pandas** – Data manipulation
