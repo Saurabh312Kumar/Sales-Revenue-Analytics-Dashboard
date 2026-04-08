@@ -56,7 +56,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
   * Filters (Year, Region, Category)
   * Charts (Bar, Line, Pie)
 
-## 📊 Dashboard
+##  Dashboard
 
 The Power BI dashboard provides:
 
@@ -64,9 +64,8 @@ The Power BI dashboard provides:
 * Interactive filtering for deeper analysis
 * Insights into trends, top products, and regional performance
 
----
 
-## 📈 Results & Insights
+## Results & Insights
 
 * Identified top-performing products and categories
 * Analyzed seasonal sales trends
